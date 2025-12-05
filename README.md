@@ -9,7 +9,6 @@ The project is a typical pet project; in some places, it may be difficult to rea
 ## 🚀 Features
 
 - 🔍 Search movies using the **OMDb API**  
-- ⭐ Add movies to your **favorites**  
 - 🔐 Authentication & Authorization via **JWT**  
 - 🛠 Middleware logging & timing requests  
 - ✅ Input validation with **FluentValidation**  
