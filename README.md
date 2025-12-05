@@ -34,6 +34,8 @@ The project is a typical pet project; in some places, it may be difficult to rea
 ```bash
 git clone https://github.com/AihoEs/MovieService.git
 cd MovieService
+
+```bash
 Set up your .env or appsettings.json with:
 
 json
