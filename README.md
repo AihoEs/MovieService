@@ -1,6 +1,6 @@
 # 🎬 MovieService
 
-A project on AspNetCore with movie search and details. Movie information is taken from the OMDb API. The project uses registration and JWT authentication, Fluent Validation, and Xunit tests. The project is built with a PostgreSQL database.
+A webApi project on AspNetCore with movie search and details. Movie information is taken from the OMDb API. The project uses registration and JWT authentication, Fluent Validation, and Xunit tests. The project is built with a PostgreSQL database.
 
 The project is a typical pet project; in some places, it may be difficult to read, or some elements may be incomplete.
 
